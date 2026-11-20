@@ -6,8 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-An enterprise-grade, locally-hosted analytical dashboard designed for deep acoustic forensics and temporal multi-modal behavioral tracking. Built with Python, PyTorch, Custom YOLOv11 Pose estimation, and Streamlit, this suite merges digital signal processing with spatial-temporal neural networks to map telemetry directly to established canine ethograms.
-
+ A modular, locally hosted multimodal analysis tool for canine vocalization and behavioural tracking
 
 ---
 
